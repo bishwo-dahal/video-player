@@ -6,4 +6,6 @@ A very basic videoplayer made in QT5 using mediaplayer.  It just has some import
 
 https://codecguide.com/download_kl.htm
 Download it and install it
+
+Compiled with QT 5.12
 ---
